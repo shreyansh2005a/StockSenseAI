@@ -98,8 +98,3 @@ Dense (1)  ← Predicted Close Price
 - **MAPE** — Mean Absolute Percentage Error (lower is better)
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only**.  
-Stock market predictions are inherently uncertain — do not use this model for real trading decisions.
