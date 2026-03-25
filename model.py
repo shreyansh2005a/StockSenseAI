@@ -137,7 +137,7 @@ def preprocess(df: pd.DataFrame, sequence_len: int, test_split: float):
         X[:split], X[split:],
         y[:split], y[split:],
         scaler,
-        split + sequence_len        # split_idx into original df
+        split + sequence_len        
     )
 
 
